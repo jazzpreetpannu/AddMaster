@@ -23,7 +23,7 @@ public class AddMaster {
     static SimpleDateFormat df = new SimpleDateFormat("yyyyMMdd");
     static Date dt = new Date();
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Application GUI intialization here
         Masteradd f = new Masteradd();
         
         f.setVisible(true);
